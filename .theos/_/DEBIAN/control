@@ -1,0 +1,10 @@
+Package: ninja.haifisch.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: A very Christmas-y tweak. Makes snowflakes fall on your SpringBoard. Merry Christmas :D
+Maintainer: Haifisch
+Author: Haifisch
+Section: Tweaks
+Version: 0.0.1-49
+Installed-Size: 96
